@@ -1,4 +1,4 @@
 tomcat-study
 ============
 
-This is only wiki project
+This project is only wiki
